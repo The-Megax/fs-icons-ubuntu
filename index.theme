@@ -2,7 +2,7 @@
 Name=FS Icons Ubuntu
 Comment=Icons with smooth and modern look for Ubuntu, by Frank Souza. This is the main package.
 Comment[pt_BR]=Ícones com um visual suave e moderno para Ubuntu, por Frank Souza. Este é o pacote principal.
-Version=0.6-alpha4
+Version=0.7
 
 DisplayDepth=32
 
