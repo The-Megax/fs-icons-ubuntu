@@ -5,6 +5,9 @@ FS Icons Ubuntu proposes a new look, and smooth, modern icons for Ubuntu.
 
 #CHANGELOG
 
+##Version 0.8
+- Rebased.
+
 ##Version 0.7
 - Gtk 3.14 fix.
 
